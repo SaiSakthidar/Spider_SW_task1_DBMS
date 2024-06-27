@@ -25,3 +25,5 @@ SELECT * FROM products WHERE quantity > 20;
 UPDATE products SET price = 1100.00 WHERE id = 1;
 
 DELETE FROM products WHERE id = 5;
+
+SELECT * FROM products;
